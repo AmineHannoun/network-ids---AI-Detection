@@ -1,0 +1,26 @@
+# Data (trop lourd pour GitHub)
+data/raw/
+data/processed/
+*.csv
+*.arff
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Modèles sauvegardés
+*.pkl
+*.joblib
+*.h5
